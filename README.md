@@ -6,7 +6,7 @@ Currently seeking data science internships or entry-level roles where I can cont
 
 ---
 
-## 🧠 About Me
+## About Me
 
 As a self-taught data enthusiast and **Flatiron School** graduate, I’ve built hands-on experience working with real datasets, deploying machine learning models, and creating interactive dashboards. I love diving into complex problems and transforming raw data into compelling stories that drive decision-making.
 
@@ -15,24 +15,24 @@ As a self-taught data enthusiast and **Flatiron School** graduate, I’ve built 
 - Communication | Time Management | Creative Problem Solving  
 
 **Education:**
-- 🎓 *Incoming* Bachelor of Applied Mathematics | University of Maryland | Spring 2026  
-- 🎓 Associate of Arts in Teaching | PG Community College  
-- 🎓 Data Science Certificate | Flatiron School  
+- *Incoming* Bachelor of Applied Mathematics | University of Maryland | Spring 2026  
+- Associate of Arts in Teaching | PG Community College  
+- Data Science Certificate | Flatiron School  
 
 ---
 
-## 💼 Projects
+## Projects
 
 | Project | Description | Key Skills & Tools |
 |--------|-------------|---------------------|
-| **📊 [AI-Powered Resume Screening Analyzer](https://github.com/quadrillionaiire/Resume-Screening-Analyzer)** | Developed a predictive model to mirror recruiter hiring decisions with 100% accuracy. Identified key predictors like AI scores and experience using EDA and modeling. | Python, XGBoost, Scikit-learn, Streamlit, Seaborn, EDA |
-| [**📰 Political Bias Detection**](https://github.com/quadrillionaiire/Political-Bias-Detection) | Built a deep learning classifier to detect political bias in news articles, achieving 83% accuracy across five categories. | TensorFlow, NLP, Keras, TF-IDF, SciPy, Confusion Matrix |
-| **🏠 [Utah Real Estate Price Prediction](https://github.com/quadrillionaiire/Utah-Real-Estate-Sales-Analysis)** | Analyzed 4,400+ property listings to model price trends. Achieved a 99.5% R² score using KNN and boosting techniques. | Python, Gradient Boosting, Matplotlib, Data Cleaning |
-| **📚 [Student Engagement & Performance](https://github.com/quadrillionaiire/Online-Learning-Engagement-Analysis/tree/main)** | Used an EdTech dataset to explore how user behavior impacts certification rates. Built an interactive Streamlit dashboard. | Pandas, Seaborn, Streamlit, Data Visualization, Statistical Analysis |
+| **[AI-Powered Resume Screening Analyzer](https://github.com/quadrillionaiire/Resume-Screening-Analyzer)** | Developed a predictive model to mirror recruiter hiring decisions with 100% accuracy. Identified key predictors like AI scores and experience using EDA and modeling. | Python, XGBoost, Scikit-learn, Streamlit, Seaborn, EDA |
+| [**Political Bias Detection**](https://github.com/quadrillionaiire/Political-Bias-Detection) | Built a deep learning classifier to detect political bias in news articles, achieving 83% accuracy across five categories. | TensorFlow, NLP, Keras, TF-IDF, SciPy, Confusion Matrix |
+| **[Utah Real Estate Price Prediction](https://github.com/quadrillionaiire/Utah-Real-Estate-Sales-Analysis)** | Analyzed 4,400+ property listings to model price trends. Achieved a 99.5% R² score using KNN and boosting techniques. | Python, Gradient Boosting, Matplotlib, Data Cleaning |
+| **[Student Engagement & Performance](https://github.com/quadrillionaiire/Online-Learning-Engagement-Analysis/tree/main)** | Used an EdTech dataset to explore how user behavior impacts certification rates. Built an interactive Streamlit dashboard. | Pandas, Seaborn, Streamlit, Data Visualization, Statistical Analysis |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Libraries:**  
 Python · SQL · Scikit-learn · Pandas · NumPy · Keras · TensorFlow · Streamlit · Matplotlib · Seaborn · SciPy
@@ -42,7 +42,7 @@ Tableau · Jupyter Notebook · Git/GitHub · VS Code · MySQL · Google Colab ·
 
 ---
 
-## 👩🏽‍💻 Work Experience
+##  Work Experience
 
 **Junior Software Developer**  
 *CRE8 Interactions | May 2023 – Aug 2023*  
@@ -52,11 +52,11 @@ Tableau · Jupyter Notebook · Git/GitHub · VS Code · MySQL · Google Colab ·
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 Feel free to reach out — I'm always excited to discuss data, tech, and new opportunities.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jayla-haskins-9937b1a9/)  
+-  [LinkedIn](https://www.linkedin.com/in/jayla-haskins-9937b1a9/)  
 
 ---
 
